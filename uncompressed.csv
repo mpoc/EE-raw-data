@@ -1,7 +1,7 @@
-Image,Category,Width (p),Heigth (p),Filesize (b),Amount of pixels (p),Bitrate (bpp)
+Image,Category,Width (p),Heigth (p),Filesize (B),Amount of pixels (p),Bitrate (bpp)
 wintertrees,Real-life,1024,1024,807290,1048576,6.1591
 autumntrees,Real-life,1536,1024,1469590,1572864,7.4747
-sunset,Real-life,1392,1044,745703,1453248,4.1050
+sunset,Real-life,1392,1044,745703,1453248,4.105
 poolballs,Real-life,2048,1395,612246,2856960,1.7144
 umbrella,Real-life,2048,1246,938553,2551808,2.9424
 plane,Real-life,870,1160,712737,1009200,5.6499
